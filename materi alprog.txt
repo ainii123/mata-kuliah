@@ -1,0 +1,4 @@
+tipe data
+percabangan
+perulangan
+fungsi prosedur
