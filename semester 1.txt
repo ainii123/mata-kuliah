@@ -1,0 +1,4 @@
+semester 1
+-alprog
+-sistem opersi
+-bhs inggris
