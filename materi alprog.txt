@@ -1,4 +1,8 @@
 tipe data
 percabangan
+-1 kondisi
+-2 kondisi
+-lebih dari 2
+-bersarang
 perulangan
 fungsi prosedur
